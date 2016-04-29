@@ -5,5 +5,5 @@ Developped by JayMcGee
 
 ## Testing the readme
 
-*It's pretty nice
-*So useful
+* It's pretty nice
+* So useful
